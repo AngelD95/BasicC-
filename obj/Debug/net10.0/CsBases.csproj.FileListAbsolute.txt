@@ -12,3 +12,4 @@ C:\Users\ROBERTO\Documents\GitHub\dotNET\CsBases\obj\Debug\net10.0\refint\CsBase
 C:\Users\ROBERTO\Documents\GitHub\dotNET\CsBases\obj\Debug\net10.0\CsBases.pdb
 C:\Users\ROBERTO\Documents\GitHub\dotNET\CsBases\obj\Debug\net10.0\CsBases.genruntimeconfig.cache
 C:\Users\ROBERTO\Documents\GitHub\dotNET\CsBases\obj\Debug\net10.0\ref\CsBases.dll
+C:\Users\ROBERTO\Documents\GitHub\dotNET\CsBases\obj\Debug\net10.0\CsBases.sourcelink.json
